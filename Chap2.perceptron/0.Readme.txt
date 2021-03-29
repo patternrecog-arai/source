@@ -1,6 +1,0 @@
-このdirectoryに置かれているのは第２章の内容に関する以下のプログラム
-
-./Quiz2-1/              Quiz2-1 
-./Quiz2-2/              Quiz2-2 
-./perceptron.1D/        [sample] 1次元データをランダムに生成してパーセプトロンで学習する
-./perceptron.2D/        [sample] 2次元データをランダムに生成してパーセプトロンで学習する
