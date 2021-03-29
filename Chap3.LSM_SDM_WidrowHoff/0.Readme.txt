@@ -1,7 +1,0 @@
-このdirectoryに置かれているのは第２章の内容に関する以下のプログラム
-
-./1.Quiz3-1/                Quiz3-1
-./1.Fig/                    Quiz3-1で使用した学習用パターンの図
-./2.LSM_SDM_WidrowHoff/     [sample] 正規分布に従う乱数で学習用パターンを生成し各手法で学習する
-./3.Widrow-Hoff.Gender/     [sample] (身長,体重) パターンから男女識別器を学習する
-./4.Widrow-Hoff.Digits/     [sample] 画像データから数字識別器を学習する．
