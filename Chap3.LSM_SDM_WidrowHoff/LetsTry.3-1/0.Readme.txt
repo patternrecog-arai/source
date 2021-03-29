@@ -1,9 +1,0 @@
-Quiz3-1のサンプルプログラムです．
-これらを利用してQuizに解答してください．
-
-	Quiz3-1.LSM.py	      ---- 最小二乗法で解く
-
-	Quiz3-1.SDM.py        ---- 最急降下法で解く
-
-	Quiz3-1.WidrowHoff.py ---- Widrow-Hoffで解く
-
